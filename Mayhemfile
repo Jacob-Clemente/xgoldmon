@@ -1,0 +1,6 @@
+project: jacob-clemente/xgoldmon
+target: xgoldmon
+
+cmds:
+  - cmd: /xgoldmon -t s4 -l -s -i -v @@
+
